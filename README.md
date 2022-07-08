@@ -5,6 +5,8 @@ let Starex = {
   age: 16,
   hobbies: {
     reading: ["Novel", "Action & Adventure", "Sci-Fi", "Fantasy"],
+    coding: ["C", "JavaScript", "HTML & CSS"],
+    music: ["Pop", "Hip-Hop", "EDM"]
   }
 }
 ```
